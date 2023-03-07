@@ -1,10 +1,9 @@
-
-function Miulesi(){
-    return(
-        <>
-            <h1>This is my component.</h1>
-        </>
-    )
+function Miulesi() {
+  return (
+    <>
+      <h1>This is my component.</h1>
+    </>
+  );
 }
 
-export default Miulesi ;
+export default Miulesi;
